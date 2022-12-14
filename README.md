@@ -1,4 +1,4 @@
-Simple Blockchain ERC20 token
+Blockchain ERC20 token
 Token name is SHB_72617
 
 Description of service
