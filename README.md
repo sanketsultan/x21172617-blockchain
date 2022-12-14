@@ -41,3 +41,7 @@ curl --header "Content-Type: application/json" --request POST --data '{"address"
 
 Run via Docker
 docker compose up
+
+
+Docker pull image
+docker pull sanketsultan/x21172617-blockchain
