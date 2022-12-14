@@ -1,6 +1,8 @@
 Blockchain ERC20 token
 Token name is SHB_72617
 
+GITHUB URL: https://github.com/sanketsultan/x21172617-blockchain
+
 Description of service
 The python web service can be used to transfer tokens to an account provided by the user through Rest API calls.
 
