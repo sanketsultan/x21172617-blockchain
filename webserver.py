@@ -33,7 +33,7 @@ class MyServer(BaseHTTPRequestHandler):
             amount = data["amount"] 
             address = data["address"] 
             ethTransfer(address, amount)
-        if self.path=="/token": 
+        if self.path=="/token":
             address = data["address"] 
             tokenTransfer(address)
 
